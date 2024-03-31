@@ -66,6 +66,12 @@ h1{
 #signin  input[type="text"]:focus, #signin  input[type="password"]:focus{
 	color: rgb(255, 255, 255);
 }
+
+#signin  input[type="password"]:focus, #signin  input[type="password"]:focus{
+	color: rgb(255, 255, 255);
+} 
+
+
 #signin button[type="submit"]{
 	display: block;
 	position: absolute;
